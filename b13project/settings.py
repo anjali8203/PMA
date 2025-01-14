@@ -41,14 +41,10 @@ INSTALLED_APPS = [
     "storages",
     "b13project"
 ]
-# "482799726962-g6vb6pvjoaadauj9rng32cloudaap2of.apps.googleusercontent.com"
-# "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"
 
 SOCIALACCOUNT_PROVIDERS = {
     "google": {
         "APP": {
-            # "client_id": "482799726962-g6vb6pvjoaadauj9rng32cloudaap2of.apps.googleusercontent.com",
-            # "secret":  "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",
             "client_id": os.getenv("GOOGLE_CLIENT_ID"),
             "secret": os.getenv("GOOGLE_CLIENT_SECRET"),
             "key": "",
