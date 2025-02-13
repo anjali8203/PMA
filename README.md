@@ -1,7 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bknTyRar)
-# Django Practice Assessment
+# Project Management Application
 
 __Name:__ Anjali Mehta
 
-__Computing ID:__ wfn7ad
+I developed a full-stack project management application using Django for the back-end and PostgreSQL for the
+database. I Integrated Amazon S3 to enable secure file uploads with metadata storage for user-generated content. This project designed and consumed RESTful APIs to streamline front-end and back-end communication. During this process I conducted Beta Testing to gather user feedback. 
 
